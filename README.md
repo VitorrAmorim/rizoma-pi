@@ -28,9 +28,9 @@
 
 ## 👥 Equipe
 * **Bruno Juni Giacomini**
-* **Guilherme Henrique O. Pires**
+* **Guilherme Henrique Onorino Pires**
+* * **Henrique Carvalho Campos**
 * **Júlia Aguiar de Moura Moisés**
-* **Lucas Pereira de Oliveira**
 * **Vitor Gabriel de Amorim**
 
 ---
