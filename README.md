@@ -18,7 +18,7 @@
 * Ferramentas: **Visual Studio Code**, **WebStorm**
 
 ### **Back-end**
-* **Java** * **Spring Boot** (REST API)
+* **Java** + **Spring Boot** (REST API)
 * Ferramentas: **IntelliJ IDEA**
 
 ### **Base de Dados**
