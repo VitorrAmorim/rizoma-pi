@@ -21,6 +21,9 @@
 * **Java** * **Spring Boot** (REST API)
 * Ferramentas: **IntelliJ IDEA**
 
+### **Base de Dados**
+* **MongoDB** (NoSQL)
+
 ---
 
 ## 👥 Equipe
