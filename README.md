@@ -42,7 +42,7 @@
 
 ## 📄 Licença (Aevum License)
 
-**Copyright (c) 2026 Bruno Juni, Guilherme Henrique, Júlia Aguiar, Lucas Pereira, Vitor Gabriel**
+**Copyright (c) 2026 Bruno Giacomini, Guilherme Pires, Henrique Campos, Júlia Moisés, Vitor Amorim**
 
 All rights reserved.
 
