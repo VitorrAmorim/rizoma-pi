@@ -19,7 +19,7 @@
 
 ### **Back-end**
 * **Java** + **Spring Boot** (REST API)
-* Ferramentas: **IntelliJ IDEA**
+* Ferramentas: **IntelliJ IDEA**, **Visual Studio Code**
 
 ### **Base de Dados**
 * **MongoDB** (NoSQL)
