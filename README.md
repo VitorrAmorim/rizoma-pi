@@ -1,4 +1,4 @@
-# Aevum ♻️
+# Rizoma ♻️
 
 > **Projeto Integrador - FATEC Indaiatuba** > Um sistema focado na conscientização e gestão de reciclagem de materiais, desenvolvido para facilitar o acesso à informação e promover práticas sustentáveis.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📄 Licença (Aevum License)
+## 📄 Licença (Rizoma License)
 
 **Copyright (c) 2026 Bruno Giacomini, Guilherme Pires, Henrique Campos, Júlia Moisés, Vitor Amorim**
 
@@ -50,4 +50,4 @@ This code is the exclusive property of the authors listed above.
 Copying, modifying, redistributing, or using this code without prior authorization is strictly prohibited.
 
 ---
-[Aevum PI Repository](https://github.com/VitorrAmorim/aevum-pi)
+[Rizoma PI Repository](https://github.com/VitorrAmorim/rizoma-pi)
