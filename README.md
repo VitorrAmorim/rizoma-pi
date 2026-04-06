@@ -1,4 +1,4 @@
-# Rizoma ♻️
+# EcoVault ♻️
 
 > **Projeto Integrador - FATEC Indaiatuba** > Um sistema focado na conscientização e gestão de reciclagem de materiais, desenvolvido para facilitar o acesso à informação e promover práticas sustentáveis.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📄 Licença (Rizoma License)
+## 📄 Licença (EcoVault License)
 
 **Copyright (c) 2026 Bruno Giacomini, Guilherme Pires, Henrique Campos, Júlia Moisés, Vitor Amorim**
 
