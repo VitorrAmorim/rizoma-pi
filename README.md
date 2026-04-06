@@ -50,4 +50,4 @@ This code is the exclusive property of the authors listed above.
 Copying, modifying, redistributing, or using this code without prior authorization is strictly prohibited.
 
 ---
-[Rizoma PI Repository](https://github.com/VitorrAmorim/rizoma-pi)
+[EcoVault PI Repository](https://github.com/VitorrAmorim/ecovault-pi)
